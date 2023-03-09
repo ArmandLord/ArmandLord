@@ -8,7 +8,7 @@
 <p>He trabajado como desarrollador de software para CrediTú.
 Siendo parte de un equipo de desarrolladores, cuya tarea era crear funcionalidades de código para el cliente, desde la planificación, maquetación, diagramado de tareas y posteriormente creación y testeo de código escalable con tecnologías como Nest, Vue, TypeScript, Jest, Cypress, Buefy, Oruga, Figma, SASS, Storybook y AWS.</p>
 <br>
-<p>Actualmente tengo la meta de compartir mi conocimiento y experiencias mediante mi página web [armex.site](https://www.armex.site/), para seguir apoyando a las próximas generaciones 🚀
+<p>Actualmente tengo la meta de compartir mi conocimiento y experiencias mediante mi página web [armex](https://www.armex.site/), para seguir apoyando a las próximas generaciones 🚀
 </p>
 
 <br>
