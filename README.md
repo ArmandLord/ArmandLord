@@ -1,12 +1,15 @@
 <h1 align="center">¡Hola, mi nombre es Armando!</h1>
-<h4 >🙋🏻‍♂️ Soy Desarrollador Full Stack con JavaScript y Node.js 👨🏻‍💻 (Gran pasión por el 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱)</h4>
+<h4 >Soy un Desarrollador Full Stack que siente una gran pasión por el desarrollo Front-end y la experiencia de usuario. Siempre busco mejorar la usabilidad y accesibilidad de mis proyectos, por lo que me mantengo actualizado y aprendiendo nuevas tecnologías para ofrecer soluciones cada vez mejores. Me encanta trabajar en equipo y colaborar con otros miembros para crear proyectos de alta calidad.</h4>
 <br>
 
-- 👾 Trabajo en ecommerce de videojuegos retro [16-Bit GameStore](https://github.com/2Davit/16Bit-GameStore)
-
-- 🕹 Catálogo de videojuegos [GameZone](https://github.com/ArmandLord/videogames-pi)
-
-- 🌎 App para conocer el clima [ClimApp](https://github.com/ArmandLord/climapp)
+<h2>Experiencia</h2>
+<p>He sido tutor en CoderHouse para curso Frontend con React Js. A cargo de grandes grupos de alumnos que enfocan su formación profesional al desarrollo frontend con React y Firebase. Con la responsabilidad de ayudar, corregir y aportar nuevas ideas para el contenido del curso.</p>
+<br>
+<p>He trabajado como desarrollador de software para CrediTú.
+Siendo parte de un equipo de desarrolladores, cuya tarea era crear funcionalidades de código para el cliente, desde la planificación, maquetación, diagramado de tareas y posteriormente creación y testeo de código escalable con tecnologías como Nest, Vue, TypeScript, Jest, Cypress, Buefy, Oruga, Figma, SASS, Storybook y AWS.</p>
+<br>
+<p>Actualmente tengo la meta de compartir mi conocimiento y experiencias mediante mi página web [armex.site](https://www.armex.site/), para seguir apoyando a las próximas generaciones 🚀
+</p>
 
 <br>
 <hr>
